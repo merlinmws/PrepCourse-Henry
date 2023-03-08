@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo dos
+este es mi primer repositorio desde github, lo cree en github y luego lo clone a mi escritorio
